@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yildirim.TodoAppNTier.DataAccess", "Yildirim.TodoAppNTier.DataAccess\Yildirim.TodoAppNTier.DataAccess.csproj", "{C286B5DE-B478-417F-A53E-65B38796B8D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yildirim.TodoAppNTier.Business", "Yildirim.TodoAppNTier.Business\Yildirim.TodoAppNTier.Business.csproj", "{C098BE72-F01F-4C32-BC39-90A82D4C57FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yildirim.TodoAppNTier.Entities", "Yildirim.TodoAppNTier.Entities\Yildirim.TodoAppNTier.Entities.csproj", "{DEFAB5B5-EAC5-4A3B-AB9F-4D091921C066}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yildirim.TodoAppNTier.Dtos", "Yildirim.TodoAppNTier.Dtos\Yildirim.TodoAppNTier.Dtos.csproj", "{478C03E5-2678-4BD4-8B3C-ABEDA23F8860}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yildirim.TodoAppNTier.UI", "Yildirim.TodoAppNTier.UI\Yildirim.TodoAppNTier.UI.csproj", "{406E8B00-59AE-4273-9605-AD8AC11B7F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yildirim.TodoAppNTier.Common", "Yildirim.TodoAppNTier.Common\Yildirim.TodoAppNTier.Common.csproj", "{5B50EB8F-FE9B-434F-826F-84B5859734B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C286B5DE-B478-417F-A53E-65B38796B8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C286B5DE-B478-417F-A53E-65B38796B8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C286B5DE-B478-417F-A53E-65B38796B8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C286B5DE-B478-417F-A53E-65B38796B8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C098BE72-F01F-4C32-BC39-90A82D4C57FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C098BE72-F01F-4C32-BC39-90A82D4C57FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C098BE72-F01F-4C32-BC39-90A82D4C57FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C098BE72-F01F-4C32-BC39-90A82D4C57FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFAB5B5-EAC5-4A3B-AB9F-4D091921C066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFAB5B5-EAC5-4A3B-AB9F-4D091921C066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFAB5B5-EAC5-4A3B-AB9F-4D091921C066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFAB5B5-EAC5-4A3B-AB9F-4D091921C066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478C03E5-2678-4BD4-8B3C-ABEDA23F8860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478C03E5-2678-4BD4-8B3C-ABEDA23F8860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478C03E5-2678-4BD4-8B3C-ABEDA23F8860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478C03E5-2678-4BD4-8B3C-ABEDA23F8860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406E8B00-59AE-4273-9605-AD8AC11B7F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406E8B00-59AE-4273-9605-AD8AC11B7F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406E8B00-59AE-4273-9605-AD8AC11B7F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406E8B00-59AE-4273-9605-AD8AC11B7F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B50EB8F-FE9B-434F-826F-84B5859734B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B50EB8F-FE9B-434F-826F-84B5859734B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B50EB8F-FE9B-434F-826F-84B5859734B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B50EB8F-FE9B-434F-826F-84B5859734B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508B17AC-CD6B-4922-8094-8ABA603F7C13}
+	EndGlobalSection
+EndGlobal
